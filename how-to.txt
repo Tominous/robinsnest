@@ -1,0 +1,54 @@
+How to make a social network!
+
+1. Designing a social network site:
+	a. A signup process.
+	b. A login form.
+	c. A logout facility.
+	d. Session control.
+	e. User profiles with uploaded thumbnails.
+	f. A member directory.
+	g. Adding members as friends.
+	h. Public and private messaging between members.
+	i. Styling the page.
+
+2. functions.php - 5 functions to be used in throughout the app!
+
+3. header.php - header/ top part of every html document. Checked if user is logged in!.
+
+4. setup.php - Setting up the mysql tables if it hasnt been created yet.
+
+5. index.php - default home page.
+
+6. signup.php - signup page.
+
+7. checkuser.php - checking if user exists.
+
+8. login.php - logging in.
+
+9. profile.php - view your profile.
+
+10. members.php - see members and add them as your friends.
+
+11. friends.php - see your current friends.
+
+12. messages.php - see your messages.
+
+13. adding styles and js.
+
+
+Things to add
+
+1. Salted passwords
+
+2. Hide passwords
+
+3. Public chat room
+
+4. Refactoring php and js
+
+5. Confirm password again when registering.
+
+6. Styling and responsive mobile web design.
+
+7. Admin priviledges.
+
